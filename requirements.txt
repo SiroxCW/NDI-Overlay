@@ -1,0 +1,4 @@
+cffi
+imutils
+numpy
+PyQt5
